@@ -7,13 +7,13 @@ https://www.youtube.com/@zakarya_commondo
 ## Find here a video Facebook 
 https://www.facebook.com/share/19wGAZCXGH/
 
-## Install Requirements (on Linux)
+## Install Requirements (on ZagOS Linux)
 ```
 >> zadpk update
 >> sudo zadpk install nmap clamav -y
 ```
 
-## Run commands one by one
+## Run commands one by one (on Linux)
 ```
 >> git clone https://github.com/zagos-repo/ShadowGuardian.git
 >> cd Facebook-BruteForce
