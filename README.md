@@ -22,6 +22,9 @@ https://www.facebook.com/share/19wGAZCXGH/
 >> chmod +x shadowGuardian.py
 >> python3 shadowGuardian.py 
 ```
+## Run commonds on script ruby 
+>> ruby shadowGuardian.rb
+
 ##Zakarya Commondo
 ~~~
 Happy Hacking Day !
