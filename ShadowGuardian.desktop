@@ -1,0 +1,9 @@
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ShadowGuardian
+Exec=/mnt/data/ShadowGuardian/shadowguardian.py
+Icon=utilities-terminal
+Terminal=true
+Categories=Security;Utility;
